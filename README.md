@@ -1,6 +1,13 @@
+<!--<!--
+CONFIG
+FULL_NAME: Ivan Dario Perdomo Culma
+GITHUB_USER: ivanpercu2401
+EMAIL: idperdomo-2022a@corhuila.edu.co
+CODE_ORGANIZATION: code-corhuila 
+-->
 ## Hi there 👋
 
-<!--
+
 **ivanpercu2401/ivanpercu2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
